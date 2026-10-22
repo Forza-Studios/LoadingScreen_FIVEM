@@ -1,7 +1,7 @@
 // ---------- Background HLS stream ----------
 (function initBgStream() {
     var video = document.getElementById('bg-video');
-    var streamUrl = 'https://rumble.com/hls-vod/Zyl1AEIyzTI/playlist.m3u8';
+    var streamUrl = 'https://rumble.com/hls-vod/jxRhpW8Uz7I/playlist.m3u8';
     if (!video) return;
 
     function tryPlay() {
